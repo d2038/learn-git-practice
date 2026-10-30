@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+package-lock.json
+.env
+.env.*
+test-results/
+playwright-report/
+playwright-video/
+coverage/
+.nyc_output/

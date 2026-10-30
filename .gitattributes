@@ -1,0 +1,8 @@
+# Normalize line endings on commit/check-out
+* text=auto
+
+# Ensure specific file types are always LF in the repository
+*.js text eol=lf
+*.ts text eol=lf
+*.json eol=lf
+*.md text eol=lf
