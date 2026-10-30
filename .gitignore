@@ -8,3 +8,9 @@ playwright-report/
 playwright-video/
 coverage/
 .nyc_output/
+
+# Playwright
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
